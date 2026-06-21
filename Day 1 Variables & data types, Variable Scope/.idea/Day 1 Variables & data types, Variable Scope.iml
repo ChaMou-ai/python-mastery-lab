@@ -6,5 +6,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (Day 1 Variables &amp; data types, Variable Scope)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Day 2 Type Casting &amp; Checking, Operators in Python, Python Comments" />
   </component>
 </module>
